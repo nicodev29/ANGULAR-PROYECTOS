@@ -1,6 +1,6 @@
 # Angular-Proyectos
-proyectos con angular
+Proyectos con angular, deploys:
 
-Piano deploy
+Piano
 https://angular-pianop1.netlify.app/
 
